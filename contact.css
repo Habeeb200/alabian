@@ -1,0 +1,71 @@
+.container3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-image: none;
+    color: black;
+    padding:0px;
+    margin-left: 70px;
+}
+.con{
+    text-align: left;
+}
+#container1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 700px;
+    margin-top: 50px;
+}
+.lip{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.per{
+    width: 20px;
+    height: 26px;
+    padding: 10px;
+    background-color: gray;
+}
+#per{
+    width: 280px;
+    height: 40px;
+}
+#perv{
+    width: 320px;
+    height: 40px;
+}
+#btnn{
+    height: 30px;
+    width: 170px;
+    background-color: rgb(57, 57, 228);
+    outline: none;
+    border: none;
+    margin-top: 20px;
+}
+#container2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 34px;
+}
+#love{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: gray;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+#love label{
+    text-align: left;
+}
+#loo{
+    text-align: left;
+}
+.container10{
+    margin-top: 400px;
+}
